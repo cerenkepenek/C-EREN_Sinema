@@ -1,0 +1,16 @@
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\C-EREN_Sinema.exe
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\C-EREN_Sinema.deps.json
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\C-EREN_Sinema.runtimeconfig.json
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\C-EREN_Sinema.runtimeconfig.dev.json
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\C-EREN_Sinema.dll
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\ref\C-EREN_Sinema.dll
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\bin\Debug\net5.0\C-EREN_Sinema.pdb
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.csproj.AssemblyReference.cache
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.AssemblyInfoInputs.cache
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.AssemblyInfo.cs
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.csproj.CoreCompileInputs.cache
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.dll
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\ref\C-EREN_Sinema.dll
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.pdb
+C:\Users\ylmz_\Desktop\C-EREN_Sinema\obj\Debug\net5.0\C-EREN_Sinema.genruntimeconfig.cache
